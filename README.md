@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building a front-end projects.
+- 🌱 I’m currently deepening my understand of machine learning.
+- 👯 I’m looking to collaborate on open source web development projects.
+- 🤔 I’m looking for help with optimizing my python code for speed.
+- 📫 How to reach me: barechaetana32@gmail.com
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I don't like football.
 <!--
 **bar-echa/bar-echa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
