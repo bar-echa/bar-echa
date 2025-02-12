@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Barecha, and I am software development student!
 
 - 🔭 I’m currently working on building a front-end projects.
 - 🌱 I’m currently deepening my understand of machine learning.
