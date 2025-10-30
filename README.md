@@ -2,7 +2,7 @@
 My name is Barecha, and I am software development student!
 
 - 🔭 I’m currently working on building a front-end projects.
-- 🌱 I’m currently deepening my understand of machine learning.
+- 🌱 I’m currently deepening my understand of backend-server.
 - 👯 I’m looking to collaborate on open source web development projects.
 - 🤔 I’m looking for help with optimizing my python code for speed.
 - 📫 How to reach me: barechaetana32@gmail.com
